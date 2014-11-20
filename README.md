@@ -47,7 +47,7 @@ This file should have four main parts:
 
 * Software: A list with the software that will be used in the whole course. Please, write them as links and pin the version if is needed.
 
-* Bibliography: Another list with any bibliography used in the course: books, papers, webs, etc. Please, use the MLA citation format. You can find this format for a lot publications in [Google Scholar](http://scholar.google.com/). Also, if only a few chapter a book were used, mention them at the end of the cite.
+* Bibliography: Another list with any bibliography used in the course: books, papers, webs, etc. Please, use the MLA citation format. You can find this format for a lot publications in [Google Scholar](http://scholar.google.com/). Also, if only a few chapters of a book were used, mention them at the end of the cite.
 
 You can find examples of the two last points in this very same file.
 
