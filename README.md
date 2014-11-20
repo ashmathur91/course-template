@@ -31,7 +31,7 @@ Lecture 1: A little example
 
 If you can't find a name for the lecture, dont' worry. Just don't write it, and also don't use the colon ;)
 
-Inside the lecture's folder of this repo you can find the template for the lectures.
+Inside the [lecture's folder](https://github.com/DataScienceSeville/course-template/tree/master/Lecture%201:%20A%20little%20example) of this repo you can find the template for the lectures.
 
 #### 1.1.2. Description of the course
 
@@ -47,7 +47,7 @@ This file should have four main parts:
 
 * Software: A list with the software that will be used in the whole course. Please, write them as links and pin the version if is needed.
 
-* Bibliography: Another list with the any bibliography used in the course: books, papers, webs, etc. Please, use the MLA citation format. You can find this format for a lot publications in [Google Scholar](http://scholar.google.com/).
+* Bibliography: Another list with any bibliography used in the course: books, papers, webs, etc. Please, use the MLA citation format. You can find this format for a lot publications in [Google Scholar](http://scholar.google.com/). Also, if only a few chapter a book were used, mention them at the end of the cite.
 
 You can find examples of the two last points in this very same file.
 
@@ -78,4 +78,4 @@ Here is a list of some tutorials if you need to catch up with some of the techno
 --------------
 
 * Stanton, Jeffrey M. "Introduction to data science." (2013).
-* Zumel, Nina, and John Mount. "Practical data science with R." (2014).
+* Zumel, Nina, and John Mount. "Practical data science with R." (2014). Ch 1 to 4.

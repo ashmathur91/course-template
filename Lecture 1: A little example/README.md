@@ -25,7 +25,7 @@ A few things can differ, for example the content of the `Software` and the `Bibl
 
 Use a combination of the next elements for your lecture. You don't need to have them all, or even you would like to use new ones. *It's your lecture!*
 
-* Slides: Using the `slides.md` file you can write your slides using [Remark](https://github.com/gnab/remark)'s `Markdown`syntax. Also, if we all use a similar writing style, like the one in the `slides.md` file, the slides will look like only one person write them, because of the use of a common [slide viewer](https://github.com/DataScienceSeville/slide-viewer). **THE SLIDES TOPIC IS A WORK IN PROGRESS.**
+* Slides: Using the `slides.md` file you can write your slides using [Remark](https://github.com/gnab/remark)'s `Markdown`syntax. Also, if we all use a similar writing style, like the one in the `slides.md` file, the slides will look like only one person write them, because of the use of a common [slides viewer](https://github.com/DataScienceSeville/slides-viewer). The `slides.md` file of this directory is a kind of template, which also shows how to use the slides viewer for playing the slides, like [this](http://datascienceseville.github.io/slides-viewer/viewer.html?md=https://raw.githubusercontent.com/DataScienceSeville/course-template/master/Lecture%201:%20A%20little%20example/slides.md).
 
 * Notes: If you need to create content like in a regular document format, use this `Markdown` file, the `notes.md` one.
 
