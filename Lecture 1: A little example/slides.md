@@ -4,17 +4,17 @@ class: center, middle, inverse
 
 ---
 
-# A little example
-### Lecture 1
-## Course name
+# Switching Concept and LAN 
+### Lecture 7
+## Enterprise Network Enginnering 
 
-.right-column[.footnote[Data Science Seville]]
+.right-column[.footnote[CTIS 6th Sem]]
 
 ---
 
 layout: false
 
-# A huge title, for example
+# Concepts of Subnets in Detail
 
 And because it's `Markdown`, you can write it like this:
 
@@ -91,3 +91,4 @@ http://datascienceseville.github.io/slides-viewer/viewer.html?md=
 ```
 
 That way you can have a link like this [one](http://datascienceseville.github.io/slides-viewer/viewer.html?md=https://raw.githubusercontent.com/DataScienceSeville/course-template/master/Lecture%201:%20A%20little%20example/slides.md).
+
